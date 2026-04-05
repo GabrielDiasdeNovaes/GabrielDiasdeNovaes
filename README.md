@@ -18,6 +18,6 @@ Trabalho transformando necessidades de negócios em soluções tecnológicas ág
 ### 📬 Como me encontrar
 - **LinkedIn:** www.linkedin.com/in/gabrieldiasdenovaes
 - **E-mail:** contato.gabrieldiasdenovaes@gmail.com
-- **Portifólio:** https://bit.ly/PortifólioGabrielDiasdeNovaes
+- **Portfólio:** https://bit.ly/PortifólioGabrielDiasdeNovaes
 ---
 *"Buscando sempre aliar a base teórica da Engenharia de Software à prática diária da programação."*
