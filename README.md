@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá!
 
-<!--
-**GabrielDiasdeNovaes/GabrielDiasdeNovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor de Software | Estudante de Engenharia de Software**
 
-Here are some ideas to get you started:
+Trabalho transformando necessidades de negócios em soluções tecnológicas ágeis e seguras. Como freelancer, meu foco principal é resolver problemas através de código limpo, automações e desenvolvimento back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias e Ferramentas
+* **Linguagem Principal:** Python
+* **Bibliotecas/Frameworks:** Pandas, BeautifulSoup, FastAPI
+* **Bancos de Dados:** SQLite, PostgreSQL, MySQL
+* **Outros:** Git, GitHub, Lógica de Programação, Clean Code
+
+### 🚀 O que eu entrego para meus clientes
+- **Automação de Tarefas:** Robôs para web scraping e extração de dados (planilhas, relatórios).
+- **Integração de Sistemas:** Criação e consumo de APIs (conexão com Telegram, WhatsApp, painéis web).
+- **Desenvolvimento Back-end:** Estruturação de bancos de dados e regras de negócio.
+
+### 📬 Como me encontrar
+- **LinkedIn:** www.linkedin.com/in/gabrieldiasdenovaes
+- **E-mail:** contato.gabrieldiasdenovaes@gmail.com
+
+---
+*"Buscando sempre aliar a base teórica da Engenharia de Software à prática diária da programação."*
